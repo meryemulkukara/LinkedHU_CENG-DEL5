@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "title": "First Announcement",
+        "description": "Announcement 1 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 1 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 1 salary",
+        "type": "internship"
+    },
+    {
+        "id": "2",
+        "title": "Second Announcement",
+        "description": "Announcement 2 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 2 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 2 salary",
+        "type": "scholarship"
+    },
+    {
+        "id": "3",
+        "title": "Third Announcement",
+        "description": "Announcement 3 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 3 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 3 salary",
+        "type": "internship"
+        
+    },
+    {
+        "id": "4",
+        "title": "Fourth Announcement",
+        "description": "Announcement 4 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 4 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 4 salary",
+        "type": "job"
+    },
+    {
+        "id": "5",
+        "title": "Fifth Announcement",
+        "description": "Announcement 4 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 4 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 4 salary",
+        "type": "scholarship"
+    },
+    {
+        "id": "6",
+        "title": "Sixth Announcement",
+        "description": "Announcement 4 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 4 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 4 salary",
+        "type": "job"
+    },
+    {
+        "id": "7",
+        "title": "Seventh Announcement",
+        "description": "Announcement 4 description",
+        "startDate": "2018-01-01",
+        "endDate": "2018-01-02",
+        "location": "Announcement 4 location",
+        "contact": "+1-123-456-7890",
+        "salary": "Announcement 4 salary",
+        "type": "internship"
+    }
+    
+]

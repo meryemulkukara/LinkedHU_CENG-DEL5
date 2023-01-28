@@ -1,0 +1,35 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 200px);
+    justify-self: center;
+
+    margin-top: 200px;
+
+    margin: 0;
+    padding: 0;
+}
+
+.intro-card{
+    width: 100%;    
+    max-width: 500px;
+
+    word-wrap: normal;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fafafa !important;
+    
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px rgba(0,0,0,0.1) !important;
+    padding: 30px;
+}
+
+
+p {
+    margin-top: 10px;
+}

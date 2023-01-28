@@ -1,0 +1,29 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    height: calc(100vh - 200px);
+}
+
+.login-card{
+    width: 100%;
+    max-width: 600px;
+    min-width: 500px;
+
+    word-wrap: normal;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fafafa !important;
+    
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px rgba(0,0,0,0.1) !important;
+    padding: 30px;
+}
+
+h2 {
+    padding: 8px;
+}
